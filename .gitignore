@@ -1,0 +1,34 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+.atom/
+
+# Build files
+build/
+dist/
+
+# Coverage files
+coverage/
+
+# Test files
+test/coverage/
+
+# Environment files
+.env
+config.js
+
+# Other files
+*.iml
+*.swp
+*.swo
